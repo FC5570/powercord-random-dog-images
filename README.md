@@ -1,4 +1,5 @@
-Powercord Random Dog Images
+# Powercord Random Dog Images
+
 This is a powercord plugin which sends random dog images in chat.
 
 ## Usage
