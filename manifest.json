@@ -4,7 +4,7 @@
     "description": "Powercord plugin to provide random dog images in a command.",
     "author": "FC#5104",
     "license": "MIT",
-    "repo": "https://github.com/FC5570/",
+    "repo": "https://github.com/FC5570/powercord-random-dog-images",
     "dependencies": [
       "pc-commands"
     ]
